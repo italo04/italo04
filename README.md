@@ -4,7 +4,6 @@
 🧑‍💻 I contributed to projects on software development.<br/>
 💻 I am looking to collaborate in web and application development.<br/>
 
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/italo_mijail) 
 
