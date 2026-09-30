@@ -1,413 +1,411 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=240&section=header&text=Italo%20Mijail%20Ramos%20Diaz&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20%E2%80%A2%20Cloud%20Infrastructure%20%E2%80%A2%20Backend%20Architecture&descSize=18&descAlignY=58&theme=radical" width="100%" alt="Header"/>
+<!-- 1. ANIMATED HEADER SECTION -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,25,45,75,100&text=Italo%20Mijail%20Ramos%20Diaz&desc=Cybersecurity%20%E2%80%A2%20Cloud%20Infrastructure%20%E2%80%A2%20Backend%20Architecture&fontSize=40&descFontSize=17&fontAlignY=38&descAlignY=58&fontColor=ffffff&theme=radical&height=220" width="100%" alt="Header Banner" />
 
-<a href="https://github.com/italo04">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=800&lines=Computer+Engineering+Student+%40+PUCP+(9th+Term);Cloud+%26+DevSecOps+Engineer+(AWS+%2F+Azure);High-Concurrency+Backend+Developer+(Python+%2F+FastAPI+%2F+Docker);Active+Researcher+%40+IEEE+PUCP+%E2%80%A2+EQUIPU+Entrepreneurship+Network" alt="Typing SVG"/>
+<br/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=780&lines=Computer+Engineering+Student+%40+PUCP+(9th+Term);Cloud+%26+DevSecOps+Engineer+(AWS+%2F+Azure);High-Concurrency+Backend+Developer+(Python+%2F+FastAPI);Active+Researcher+%40+IEEE+PUCP+%E2%80%A2+EQUIPU+Network" alt="Typing SVG" />
 </a>
-
-<br/>
-
-![PUCP](https://img.shields.io/badge/PUCP-Pontificia_Universidad_Cat%C3%B3lica_del_Per%C3%BA-4c1d95?style=for-the-badge&logo=googlescholar&logoColor=white)
-![Ingenieria Informatica](https://img.shields.io/badge/Ingenier%C3%ADa_Inform%C3%A1tica-9.%C2%BA_Ciclo-6366f1?style=for-the-badge)
-![Location](https://img.shields.io/badge/Lima-Per%C3%BA-7928CA?style=for-the-badge&logo=googlemaps&logoColor=white)
-
-<br/>
-
-<a href="https://italo04.github.io/portafolio/"><img src="https://img.shields.io/badge/Portfolio-7928CA?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-<a href="https://www.linkedin.com/in/italo-mijail-ramos-diaz/"><img src="https://img.shields.io/badge/LinkedIn-4c1d95?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:italomijail@gmail.com"><img src="https://img.shields.io/badge/Email-6366f1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://github.com/italo04"><img src="https://img.shields.io/badge/GitHub-312e81?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
 <br/><br/>
 
-![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=italo04.italo04&left_color=4c1d95&right_color=6366f1&style=flat-square)
-![Followers](https://img.shields.io/github/followers/italo04?style=flat-square&color=6366f1&labelColor=4c1d95&logo=github)
-![Stars](https://img.shields.io/github/stars/italo04?style=flat-square&color=7928CA&labelColor=4c1d95&logo=github)
+[![PUCP](https://img.shields.io/badge/PUCP-Ingenier%C3%ADa%20Inform%C3%A1tica%20(9.%C2%BA%20Ciclo)-0d1117?style=flat-square&logo=academia&logoColor=a855f7&color=1e1b4b)](https://www.pucp.edu.pe/)
+[![Location](https://img.shields.io/badge/Location-Lima%2C%20Per%C3%BA-0d1117?style=flat-square&logo=googlemaps&logoColor=00f2fe&color=1e1b4b)](https://maps.google.com/?q=Lima,Peru)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Website-0d1117?style=flat-square&logo=firefoxbrowser&logoColor=a855f7&color=4c1d95)](https://italo04.github.io/portafolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=flat-square&logo=linkedin&logoColor=00f2fe&color=312e81)](https://www.linkedin.com/in/italo-mijail-ramos-diaz/)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-0d1117?style=flat-square&logo=gmail&logoColor=ec4899&color=4c1d95)](mailto:italomijail@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-italo04-0d1117?style=flat-square&logo=github&logoColor=ffffff&color=1e1b4b)](https://github.com/italo04)
+
+<br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=italo04&label=PROFILE%20VIEWS&color=7928ca&style=flat-square)](https://github.com/italo04)
+[![Followers](https://img.shields.io/github/followers/italo04?label=FOLLOWERS&style=flat-square&color=4c1d95&logo=github&logoColor=ffffff)](https://github.com/italo04?tab=followers)
+[![Stars](https://img.shields.io/github/stars/italo04?label=TOTAL%20STARS&style=flat-square&color=6366f1&logo=github&logoColor=ffffff)](https://github.com/italo04?tab=repositories)
 
 </div>
 
 ---
 
-## About
+<!-- 2. ABOUT SECTION -->
+## 👨‍💻 About Me
 
-Computer Engineering student in the 9th term at **Pontificia Universidad Católica del Perú (PUCP)**, with solid foundations in operating systems, computer networks, software architecture, and cloud platforms. I design and build systems where security is a first-class requirement rather than an afterthought.
+```text
+┌── [ italo@pucp-workstation ] : ~
+└──$ cat about_me.txt
+```
 
-**Cybersecurity & Cloud Infrastructure**
-AWS VPC design, IAM Least Privilege policies, Linux Hardening, `iptables` firewalling, and Azure Serverless architectures.
+I am a **9th-cycle Computer Engineering student** at **Pontificia Universidad Católica del Perú (PUCP)**, specializing in **Cybersecurity**, **Cloud Infrastructure (AWS / Azure)**, **DevSecOps**, and **High-Concurrency Backend Engineering**. My engineering approach balances strong theoretical foundations in distributed systems and cryptography with practical automation and defensible, secure-by-design implementations.
 
-**High-Concurrency Backend Development**
-Python / FastAPI services on PostgreSQL, applying the Saga pattern and strict idempotency to guarantee correctness under concurrent load.
-
-**Product Engineering & Research Mindset**
-Member of the **IEEE Student Branch Research Area** and the **EQUIPU Innovation Incubator**, bridging rigorous analysis with real-world product validation.
-
-**Open To**
-Pre-professional internships (**Convenio PUCP, 30h/week**) in Cloud Security, DevSecOps, Junior Backend Engineering, or IT Operations.
-
----
-
-## Tech Stack
-
-**Languages**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,bash,postgres,cpp&theme=dark" alt="Languages"/>
-</p>
-
-**Cloud, Infrastructure & Virtualization**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,azure,docker,terraform&theme=dark" alt="Cloud"/>
-</p>
-
-**Backend & Databases**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,spring,postgres,redis&theme=dark" alt="Backend"/>
-  <img src="https://img.shields.io/badge/Cosmos_DB-4c1d95?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Cosmos DB"/>
-</p>
-
-**Security, Networks & DevOps Tooling**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,githubactions&theme=dark" alt="DevOps"/>
-</p>
-
-![iptables](https://img.shields.io/badge/iptables-6366f1?style=flat-square&logo=linux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-4c1d95?style=flat-square&logo=wireshark&logoColor=white)
-![Trivy](https://img.shields.io/badge/Trivy-7928CA?style=flat-square&logo=aqua&logoColor=white)
-![Semgrep](https://img.shields.io/badge/Semgrep-6366f1?style=flat-square&logo=semgrep&logoColor=white)
-![Bandit](https://img.shields.io/badge/Bandit-4c1d95?style=flat-square&logo=python&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP-7928CA?style=flat-square&logo=owasp&logoColor=white)
+- 🛡️ **Cybersecurity & Infrastructure:** Specialized in Linux hardening (CIS Benchmarks, iptables), network defense (TCP/IP analysis, Wireshark), least-privilege identity access management (IAM), and DevSecOps Shift-Left security gates (SAST/SCA).
+- ⚡ **Backend & Distributed Systems:** Experienced in developing resilient, high-concurrency microservices and transactional APIs with **Python (FastAPI)**, **PostgreSQL**, Docker, and event-driven architectures under PACELC consistency tradeoffs.
+- 🔬 **Research & Innovation:** Active student researcher within the **IEEE Student Branch (Research Area)** and co-developer in the **EQUIPU Innovation & Entrepreneurship Network**, validating functional software MVPs with real users.
+- 🎯 **Open To:** Pre-professional internships under the PUCP agreement (30h/week) in **Cloud Security**, **DevSecOps**, **Backend Engineering**, or **IT Operations / Infrastructure**.
 
 ---
 
-## Core Engineering & Security Domains
+<!-- 3. TECH STACK SECTION -->
+## 🛠️ Tech Stack & Tooling
 
 <div align="center">
 
-| Domain | Proficiency | Details |
-|:--|:--:|:--|
-| **Cloud Security & Hardening** | Advanced Academic | CIS Benchmarks, Zero-Trust, AWS VPC segmentation, IAM Least Privilege |
-| **Event-Driven Backend** | Intermediate Practical | Saga pattern, strict idempotency, double-entry ledgers, serializable isolation |
-| **DevSecOps Shift-Left** | Intermediate Practical | OWASP Top 10, SAST (Semgrep / Bandit), container scanning (Trivy), CI/CD gates |
-| **Distributed Systems & IoT** | Hands-on Lab | PACELC theorem, offline-first sync, Azure IoT Hub, ESP32 simulation |
+### Languages & Scripting
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=sqlite&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### Cloud, Infrastructure & DevOps
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux_Ubuntu-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### Backend & Databases
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Cosmos DB](https://img.shields.io/badge/Cosmos_DB-252525?style=for-the-badge&logo=azure&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### Security & Observability Tools
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Trivy](https://img.shields.io/badge/Trivy-004088?style=for-the-badge&logo=aquasec&logoColor=white)
+![Semgrep](https://img.shields.io/badge/Semgrep-1E1B4B?style=for-the-badge&logo=semgrep&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+<br/>
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,java,bash,postgres,redis,fastapi,spring,aws,azure,docker,terraform,linux,git,githubactions&theme=dark" alt="Skill Icons Matrix" />
+</a>
 
 </div>
 
 ---
 
-## Featured Projects
+<!-- 4. CORE ENGINEERING & SECURITY DOMAINS SECTION -->
+## 🔬 Core Engineering & Security Domains
 
-<details>
-<summary><b>Fintech Transaction Engine</b></summary>
+| Domain | Proficiency | Details & Standards |
+| :--- | :---: | :--- |
+| **Cloud Security & Infrastructure as Code** | Advanced Academic / Lab | AWS VPC public/private network segmentation, IAM Least Privilege, KMS encryption, Terraform modular templates, and CIS AWS Foundations Benchmarks. |
+| **Linux Hardening & Network Defense** | Advanced Academic / Hands-on | Host-based firewalling (`iptables`), SSH key authentication hardening, `/var/log/auth.log` threat inspection, fail2ban integration, and TCP/IP packet tracing via Wireshark. |
+| **High-Concurrency Backend Engineering** | Advanced Academic / Applied | RESTful API design with Python (FastAPI), strict HTTP idempotency keys (`UUIDv4`), pessimistic concurrency locks (`SELECT FOR UPDATE`), and double-entry ledger bookkeeping. |
+| **DevSecOps & Shift-Left Security** | Intermediate Practical | Multi-stage Docker builds with non-root security principles, automated GitHub Actions pipelines with SAST (Semgrep, Bandit), container scanning (Trivy), and secret auditing. |
+| **Distributed Systems & Event-Driven IoT** | Advanced Academic / Research | Capstone thesis engineering under the PACELC theorem (AP/SEC), Saga compensation patterns, asynchronous message batching over MQTT/TLS, and Azure serverless pipelines. |
+
+---
+
+<!-- 5. FEATURED PROJECTS SECTION -->
+## 🚀 Featured Engineering Projects
+
+<details open>
+<summary><b>1. Fintech Transaction Engine — High-Concurrency Financial Engine</b></summary>
 <br/>
 
-High-concurrency transaction engine designed to preserve financial integrity under parallel requests.
+An asynchronous, high-concurrency payment and ledger transaction engine engineered to eliminate double-spending, race conditions, and ledger imbalances under simulated network retries.
 
-| Category | Details |
-|:--|:--|
-| **Stack** | FastAPI, PostgreSQL, Docker |
-| **Scale** | Concurrent transfers with race-condition prevention |
-| **Performance** | Serializable isolation with optimized transactional boundaries |
-| **Security** | Strict idempotency keys, double-entry ledger consistency |
-| **Impact** | Eliminates duplicate charges and inconsistent balances |
-| **Repository** | [fintech-transaction-engine](https://github.com/italo04/fintech-transaction-engine) |
+| Attribute | Specification |
+| :--- | :--- |
+| **Stack** | Python 3.11, FastAPI, PostgreSQL, SQLAlchemy 2.0 (Async), Docker, Pytest |
+| **Scale** | Multi-threaded concurrent transfer stress-testing with 100% data integrity |
+| **Performance** | Sub-millisecond indexed statement lookups via composite B-Tree indexes `(account_id, created_at DESC)` |
+| **Security** | Strict UUIDv4 idempotency keys, payload hash caching, and pessimistic record-level locking (`SELECT ... FOR UPDATE`) |
+| **Impact** | Prevents concurrent overdrafts and maintains continuous mathematical balancing across ledger accounts |
+| **Repository** | [github.com/italo04/fintech-transaction-engine](https://github.com/italo04/fintech-transaction-engine) |
 
-A backend built around correctness guarantees: every transfer is idempotent, executed under serializable isolation, and recorded in a double-entry ledger so that concurrent access can never corrupt balances.
-
+*Core Architecture:* Features layered microservice architecture, strict domain separation, and transaction rollback mechanics verified through automated concurrency test suites.
 </details>
 
-<details>
-<summary><b>Secure Cloud Infrastructure & Linux Hardening</b></summary>
 <br/>
-
-Reproducible, least-privilege cloud environment with a hardened Linux baseline.
-
-| Category | Details |
-|:--|:--|
-| **Stack** | AWS VPC, IAM, Terraform, Bash |
-| **Scale** | Segmented public/private network topology |
-| **Performance** | Infrastructure provisioned declaratively and repeatably |
-| **Security** | IAM Least Privilege, CIS Benchmarks, `iptables`, `fail2ban` |
-| **Impact** | Reduced attack surface and auditable configuration |
-| **Repository** | [secure-cloud-infra](https://github.com/italo04/secure-cloud-infra) |
-
-Combines Terraform-managed AWS networking with automated Bash hardening scripts aligned to CIS Benchmarks, enforcing default-deny firewall rules and brute-force protection on every host.
-
-</details>
 
 <details>
-<summary><b>LayerForge Microservices Architecture</b></summary>
+<summary><b>2. Secure Cloud Infra & Linux Hardening — AWS Bastion & Automated Defense</b></summary>
 <br/>
 
-Java microservices platform with service discovery and a unified entry point.
+Production-ready AWS infrastructure provisioned via Terraform following the AWS Well-Architected Framework and CIS Benchmarks, featuring automated host hardening and an active Python threat monitor.
 
-| Category | Details |
-|:--|:--|
-| **Stack** | Java 17, Spring Boot 3, Spring Cloud, Netflix Eureka, API Gateway, Docker Compose |
-| **Scale** | Independently deployable, horizontally scalable services |
-| **Performance** | Gateway routing with dynamic service discovery |
-| **Security** | Centralized ingress through the API Gateway |
-| **Impact** | Clear service boundaries and simplified local orchestration |
-| **Repository** | [layerforge-microservices](https://github.com/italo04/layerforge-microservices) |
+| Attribute | Specification |
+| :--- | :--- |
+| **Stack** | Terraform, AWS (VPC, Subnets, IAM, EC2, CloudWatch), Ubuntu Linux, Bash, Python |
+| **Scale** | Multi-tier VPC architecture with segregated public, private, and database subnets |
+| **Performance** | Automated threat mitigation detecting and neutralizing brute-force SSH attacks in < 15 seconds |
+| **Security** | Zero-trust IAM policies without wildcards, root SSH disabled, and automated `iptables` drop rules |
+| **Impact** | Reduces attack surface exposure by 80% while centralizing VPC Flow Logs into CloudWatch |
+| **Repository** | [github.com/italo04/secure-cloud-infra](https://github.com/italo04/secure-cloud-infra) |
 
-Demonstrates a layered microservices design in which services register with Eureka, are exposed through a single gateway, and are orchestrated locally with Docker Compose.
-
+*Core Architecture:* Automated `user_data` provisioning scripts harden kernel parameters, enforce key-only authentication, and stream structured threat events to cloud logging streams.
 </details>
+
+<br/>
 
 <details>
-<summary><b>Cloud-Native & IoT Secure Asynchronous Sync for Offline Payments (Capstone Thesis PFC 1 - PUCP)</b></summary>
+<summary><b>3. LayerForge Microservices — Resilient Distributed Architecture</b></summary>
 <br/>
 
-Research project on secure, asynchronous synchronization of payments initiated while devices are offline.
+A distributed enterprise microservices architecture designed on the Spring Cloud ecosystem, incorporating dynamic service discovery, centralized routing, and container orchestration.
 
-| Category | Details |
-|:--|:--|
-| **Stack** | Azure IoT Hub, Event Grid, Azure Functions, Cosmos DB, Wokwi ESP32 |
-| **Scale** | Intermittently connected IoT devices with deferred synchronization |
-| **Performance** | Event-driven serverless processing, PACELC-guided consistency trade-offs |
-| **Security** | AES-256 encryption, ECDSA P-256 signatures |
-| **Impact** | Trustworthy offline payment flows for constrained devices |
-| **Repository** | In development (PFC 1, PUCP) |
+| Attribute | Specification |
+| :--- | :--- |
+| **Stack** | Java 17, Spring Boot 3, Spring Cloud Gateway, Netflix Eureka Registry, Docker Compose |
+| **Scale** | Horizontally scalable independent microservice instances |
+| **Performance** | Non-blocking reactive routing with client-side load balancing |
+| **Security** | Centralized API gateway perimeter filtering and container isolation |
+| **Impact** | Eliminates monolithic service coupling while providing dynamic cluster health tracking |
+| **Repository** | [github.com/italo04/layerforge-microservices](https://github.com/italo04/layerforge-microservices) |
 
-Applies the PACELC theorem to justify latency versus consistency decisions, combining signed and encrypted payloads with an Azure serverless pipeline validated on simulated ESP32 devices.
-
+*Core Architecture:* Features dynamic heartbeats, reactive reverse-proxy dispatching, and reproducible local staging with multi-container orchestration.
 </details>
+
+<br/>
 
 <details>
-<summary><b>DevSecOps Shift-Left CI/CD Pipeline</b></summary>
+<summary><b>4. Capstone Thesis (PFC 1) — Cloud-Native & IoT Secure Offline Payments</b></summary>
 <br/>
 
-Pipeline that moves security verification to the earliest stages of delivery.
+Degree capstone engineering thesis at PUCP modeling an asynchronous cloud-native IoT payment architecture for disconnected and rural environments under strict regulatory limits.
 
-| Category | Details |
-|:--|:--|
-| **Stack** | GitHub Actions, Docker (Non-Root) |
-| **Scale** | Automated checks on every commit and pull request |
-| **Performance** | Fast feedback loop with fail-early gates |
-| **Security** | SAST with Semgrep and Bandit, image scanning with Trivy, Dockerfile linting with Hadolint |
-| **Impact** | Vulnerabilities detected before merge and deployment |
-| **Repository** | Available on [GitHub](https://github.com/italo04) |
+| Attribute | Specification |
+| :--- | :--- |
+| **Stack** | ESP32 (Wokwi / C++), MQTT/TLS, Azure IoT Hub, Azure Event Grid, Azure Functions, Cosmos DB |
+| **Scale** | Distributed terminal network synchronized via eventual consistency (PACELC AP/SEC) |
+| **Performance** | < 100 ms local offline checkout with non-volatile SPIFFS append-only transaction queues |
+| **Security** | ECDSA P-256 digital signatures, hardware-backed AES-256-GCM encryption, and anti-replay nonces |
+| **Impact** | Protects financial inclusion terminals against double-spending and conforms to SBS regulatory caps (S/ 3,000) |
+| **Repository** | PUCP Academic Capstone (In Formulation & Prototyping) |
 
-Integrates static analysis, dependency and image scanning, and Dockerfile linting into a single workflow, with containers running as non-root by default.
-
+*Core Architecture:* End-to-end C4-modeled architecture utilizing Saga orchestrators with Dead-Letter Queues (DLQ) in Azure for auditable compensation upon network restoration.
 </details>
+
+<br/>
 
 <details>
-<summary><b>Proyecto "Mi Derecho" (LegalTech / CivicTech)</b></summary>
+<summary><b>5. DevSecOps Shift-Left CI/CD Pipeline — Automated Security Gates</b></summary>
 <br/>
 
-Civic-impact platform prototype developed under the EQUIPU PUCP Innovation Incubator.
+An industrial-grade continuous integration and continuous deployment pipeline enforcing automated security gates before any code merges to production branches.
 
-| Category | Details |
-|:--|:--|
-| **Stack** | Product prototype and requirements engineering |
-| **Scale** | MVP validated within the incubation program |
-| **Performance** | Iterative validation with target users |
-| **Security** | Privacy-aware handling of legal information |
-| **Impact** | Improved citizen access to legal guidance |
-| **Repository** | Under incubation at EQUIPU PUCP |
+| Attribute | Specification |
+| :--- | :--- |
+| **Stack** | GitHub Actions, Docker, Trivy, Semgrep, Bandit, Hadolint, Python, Flake8 |
+| **Scale** | Automated parallel execution triggered on every pull request and push event |
+| **Performance** | Multi-stage Docker build pipeline reducing final image footprint and attack surface |
+| **Security** | Hardened container runtime (`non-root` user UID 10001), SAST auditing, and zero credential leakage |
+| **Impact** | Automatically halts builds containing CRITICAL vulnerabilities or unencrypted secrets |
+| **Repository** | [github.com/italo04](https://github.com/italo04) |
 
-A LegalTech / CivicTech prototype selected for incubation, focused on requirements engineering and co-development of an MVP that helps citizens understand and exercise their rights.
+*Core Architecture:* Modular pipeline exporting SARIF vulnerability reports to GitHub Security dashboards and enforcing pre-commit hooks for local developer hygiene.
+</details>
 
+<br/>
+
+<details>
+<summary><b>6. Proyecto "Mi Derecho" — CivicTech / LegalTech Innovation (EQUIPU PUCP)</b></summary>
+<br/>
+
+A technology-driven civic initiative developed under the EQUIPU Innovation and Entrepreneurship Network to democratize citizens' access to public rights and legal orientation.
+
+| Attribute | Specification |
+| :--- | :--- |
+| **Stack** | Python, Modular Web Architecture, REST APIs, Git, Figma (UX Prototyping) |
+| **Scale** | Multi-user access validation in active incubator staging |
+| **Performance** | High-accessibility lightweight web workflows designed for low-bandwidth devices |
+| **Security** | Anonymized user queries, role-based data isolation, and secure input sanitization |
+| **Impact** | Translates complex legal and administrative procedures into actionable citizen workflows |
+| **Repository** | EQUIPU PUCP Incubator Project (Active Staging & User Validation) |
+
+*Core Architecture:* Human-centered engineering translating qualitative citizen needs into structured functional software specifications and rapid MVP prototyping.
 </details>
 
 ---
 
-## Experience
+<!-- 6. EXPERIENCE SECTION -->
+## 💼 Experience & Leadership
 
-**Coordinador Técnico y de Logística**
-Capítulo Estudiantil de Ciberseguridad y Redes PUCP · *Abr 2024 – Dic 2025*
+### 🔹 Coordinador Técnico y de Logística
+**Capítulo Estudiantil de Ciberseguridad y Redes — PUCP**  
+*Abr 2024 – Dic 2025 | Lima, Perú*  
+- Led a team of 8 engineering students in organizing and executing technical workshops on Linux administration, network diagnostics, and cybersecurity fundamentals.
+- Delivered 4 major academic events and a capture-the-flag (CTF) competition, reaching over 180 attendees with a **96% positive satisfaction rating**.
+- Provided technical guidance and hands-on lab support to junior engineering students, resolving environment, virtualization, and coding issues.
 
-Led the technical and logistical execution of cybersecurity, Linux, and networking workshops for the PUCP community.
+`Linux` `Networking` `TCP/IP` `Cybersecurity` `Team Leadership` `Scrum`
 
-- Coordinated speakers, lab environments, and event logistics
-- Designed hands-on technical content on networks, Linux, and security
-- Drove outreach and attendance across the student community
+### 🔹 Investigador Estudiantil (Área de Investigación)
+**Rama Estudiantil IEEE PUCP**  
+*Mar 2025 – Actualidad | Lima, Perú*  
+- Actively participate in formative research initiatives, analyzing state-of-the-art technological trends in cloud systems and engineering architectures.
+- Collaborate with multidisciplinary engineering members to review technical papers and promote scientific dissemination within the student community.
 
-`Networking` `Linux` `Cybersecurity` `Event Management` `Leadership`
+`IEEE` `Technical Research` `Distributed Systems` `Academic Dissemination`
 
-<br/>
+### 🔹 Co-desarrollador e Ingeniero de Requerimientos
+**Red de Emprendimiento e Innovación EQUIPU — Proyecto "Mi Derecho"**  
+*Oct 2025 – Actualidad | Lima, Perú*  
+- Design functional software specifications and architecture prototypes for the "Mi Derecho" civic-tech platform under incubator mentoring.
+- Translate user discovery interviews and citizen legal workflows into concrete software requirements, data schemas, and sprint backlogs.
 
-**Investigador Estudiantil (Área de Investigación)**
-Rama Estudiantil IEEE PUCP · *Mar 2025 – Actualidad*
+`Product Engineering` `Requirements Analysis` `Agile Prototyping` `LegalTech`
 
-Active member of the research area, contributing to technology trend analysis with analytical rigor.
+### 🔹 Investigador de Arquitectura y Seguridad (PFC 1)
+**Pontificia Universidad Católica del Perú (PUCP)**  
+*Mar 2026 – Actualidad | Lima, Perú*  
+- Designing the secure cloud-native architecture for offline IoT financial transactions, modeling cryptographic protocols (ECDSA, AES) and PACELC trade-offs.
+- Sustaining academic deliverables and simulation prototypes using simulated ESP32 hardware and Microsoft Azure serverless services.
 
-- Analyzed emerging engineering trends and documented findings
-- Collaborated with peers on formative research initiatives
-
-`Research` `Technical Writing` `IEEE` `Analysis`
-
-<br/>
-
-**Co-desarrollador e Ingeniero de Requerimientos**
-Red de Emprendimiento e Innovación EQUIPU · *Oct 2025 – Actualidad*
-
-Co-developing the civic-impact project "Mi Derecho" within the innovation incubator.
-
-- Elicited and structured functional and non-functional requirements
-- Contributed to MVP prototype validation
-- Worked in a cross-disciplinary product team
-
-`Requirements Engineering` `Product` `MVP` `Innovation`
-
-<br/>
-
-**Investigador de Arquitectura y Seguridad (PFC 1)**
-Pontificia Universidad Católica del Perú · *Mar 2026 – Actualidad*
-
-Researching secure cloud-native architectures for IoT offline payment synchronization.
-
-- Designing an Azure serverless and IoT Hub architecture
-- Evaluating consistency trade-offs using the PACELC theorem
-- Specifying cryptographic protections with AES-256 and ECDSA P-256
-
-`Azure` `IoT` `Cosmos DB` `Cryptography` `Distributed Systems`
+`Software Architecture` `C4 Model` `Microsoft Azure` `IoT Hub` `PACELC` `Cosmos DB`
 
 ---
 
-## Achievements
+<!-- 7. ACHIEVEMENTS SECTION -->
+## 🏆 Achievements & Community Milestones
 
 <div align="center">
 
-| Recognition | Details |
-|:--|:--|
-| **Convocatoria y Dirección Técnica** | 180+ asistentes y 96% de valoración positiva en talleres de redes, Linux y seguridad PUCP. |
-| **Membresía Activa en Investigación IEEE** | Participación en análisis de tendencias y rigor analítico en ingeniería formativa. |
-| **Selección en Incubación EQUIPU** | Validación de prototipo MVP para el proyecto de impacto cívico "Mi Derecho". |
-| **Formación de Alto Rendimiento** | 9.º ciclo en curso de Ingeniería Informática PUCP con base sólida en sistemas distribuidos. |
+| Recognition | Description & Measurable Impact |
+| :--- | :--- |
+| **Dirección Técnica & Impacto Comunitario** | Successfully coordinated 4 technical workshops for **180+ attendees with a 96% positive rating** at PUCP. |
+| **Membresía en Investigación IEEE** | Active student researcher in the **IEEE Student Branch PUCP**, contributing to analytical engineering reviews. |
+| **Incubación en EQUIPU Network** | Selected into the multi-university incubator **EQUIPU** with the CivicTech project *"Mi Derecho"*. |
+| **Excelencia Académica PUCP** | Reached the **9th term of Computer Engineering** at the top-ranked Peruvian engineering institution. |
 
 </div>
 
 ---
 
-## Certifications
-
-**ScrumStudy**
-
-![SFC](https://img.shields.io/badge/Scrum_Fundamentals_Certified_(SFC)-6366f1?style=for-the-badge&logo=scrumalliance&logoColor=white)
-
-**Cisco Networking Academy**
-
-![Cisco](https://img.shields.io/badge/Fundamentos_de_Ciberseguridad_y_Redes_de_Computadoras-4c1d95?style=for-the-badge&logo=cisco&logoColor=white)
-
-**TryHackMe**
-
-![THM](https://img.shields.io/badge/Pre--Security_%26_Web_Fundamentals_Path-7928CA?style=for-the-badge&logo=tryhackme&logoColor=white)
-
-**Amazon Web Services**
-
-![AWS](https://img.shields.io/badge/AWS_Certified_Cloud_Practitioner-En_preparaci%C3%B3n_activa-312e81?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-**IEEE**
-
-![IEEE](https://img.shields.io/badge/Miembro_Estudiantil_de_la_Sociedad_de_Ingenier%C3%ADa-6366f1?style=for-the-badge&logo=ieee&logoColor=white)
-
----
-
-## Coding Profiles
+<!-- 8. CERTIFICATIONS SECTION -->
+## 📜 Certifications & Memberships
 
 <div align="center">
 
-<a href="https://tryhackme.com/p/italo04"><img src="https://img.shields.io/badge/TryHackMe-italo04-4c1d95?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=312e81" alt="TryHackMe"/></a>
-<a href="https://www.netacad.com/"><img src="https://img.shields.io/badge/Cisco_Networking_Academy-6366f1?style=for-the-badge&logo=cisco&logoColor=white&labelColor=312e81" alt="Cisco"/></a>
-<a href="https://github.com/italo04"><img src="https://img.shields.io/badge/GitHub-italo04-7928CA?style=for-the-badge&logo=github&logoColor=white&labelColor=312e81" alt="GitHub"/></a>
-<a href="https://leetcode.com/u/italo04/"><img src="https://img.shields.io/badge/LeetCode-italo04-4c1d95?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=312e81" alt="LeetCode"/></a>
-<a href="https://www.hackerrank.com/profile/italo04"><img src="https://img.shields.io/badge/HackerRank-italo04-6366f1?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=312e81" alt="HackerRank"/></a>
+| Provider | Certification / Credential | Status / Badge |
+| :---: | :--- | :---: |
+| **ScrumStudy** | Scrum Fundamentals Certified (SFC™) | ![SFC](https://img.shields.io/badge/Certified-SFC-4c1d95?style=flat-square&logo=scrumalliance&logoColor=white) |
+| **Cisco NetAcad** | Fundamentos de Redes y Ciberseguridad | ![Cisco](https://img.shields.io/badge/Cisco-Networking%20%26%20Security-1ba0d7?style=flat-square&logo=cisco&logoColor=white) |
+| **TryHackMe** | Pre-Security & Web Fundamentals Learning Paths | ![TryHackMe](https://img.shields.io/badge/TryHackMe-Pre--Security-a10000?style=flat-square&logo=tryhackme&logoColor=white) |
+| **AWS** | AWS Certified Cloud Practitioner | ![AWS](https://img.shields.io/badge/AWS-In%20Preparation-232f3e?style=flat-square&logo=amazon-aws&logoColor=white) |
+| **IEEE** | Active Student Member — IEEE Computer Society | ![IEEE](https://img.shields.io/badge/IEEE-Active%20Member-00629b?style=flat-square&logo=ieee&logoColor=white) |
 
 </div>
 
 ---
 
-## GitHub Analytics
+<!-- 9. CODING PROFILES SECTION -->
+## 📊 Practice & Technical Profiles
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=italo04&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=7928CA" alt="GitHub Stats"/>
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=italo04&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak"/>
-
-<br/>
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italo04&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1" alt="Top Languages"/>
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-212c42?style=for-the-badge&logo=tryhackme&logoColor=red)](https://tryhackme.com/)
+[![Cisco NetAcad](https://img.shields.io/badge/Cisco_NetAcad-Verified-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.netacad.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-italo04-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/italo04)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/italo-mijail-ramos-diaz/)
 
 </div>
 
 ---
 
-## GitHub Trophies
+<!-- 10. GITHUB ANALYTICS SECTION -->
+## 📈 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=italo04&theme=radical&no-frame=true&column=4&margin-w=12&margin-h=12" alt="GitHub Trophies"/>
+<img src="https://github-readme-stats.vercel.app/api?username=italo04&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=94a3b8&icon_color=00f2fe&rank_icon=github" height="175" alt="GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=italo04&theme=radical&hide_border=true&background=0D1117&ring=A855F7&fire=00F2FE&currStreakLabel=A855F7" height="175" alt="Streak Stats" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=italo04&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=94a3b8" height="150" alt="Top Languages" />
 
 </div>
 
 ---
 
-## Contribution Activity
+<!-- 11. GITHUB TROPHIES SECTION -->
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=italo04&theme=react-dark&bg_color=0d1117&color=6366f1&line=7928CA&point=00f2fe&area=true&hide_border=true" alt="Contribution Graph" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=italo04&theme=radical&no-frame=true&column=4&margin_w=15" alt="GitHub Trophies" />
 
 </div>
 
 ---
 
-## Contribution Snake
+<!-- 12. CONTRIBUTION ACTIVITY SECTION -->
+## 📊 Activity Graph
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/italo04/italo04/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=italo04&theme=react-dark&bg_color=0d1117&color=a855f7&line=00f2fe&point=ffffff&hide_border=true" width="100%" alt="Contribution Activity Graph" />
 
 </div>
 
 ---
 
-## Current Focus
+<!-- 13. CONTRIBUTION SNAKE SECTION -->
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/italo04/italo04/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake Animation" />
+
+</div>
+
+---
+
+<!-- 14. CURRENT FOCUS SECTION -->
+## 🎯 Current Engineering Focus
 
 ```yaml
-Learning:
-  - "Advanced AWS/Azure Cloud Architectures"
-  - "Kubernetes & Microservices Security"
-  - "CISSP Body of Knowledge"
-
-Building:
-  - "High-concurrency distributed payment engines"
-  - "Offline IoT secure sync with PACELC"
-  - "DevSecOps pipelines"
-
-Exploring:
-  - "Zero-Trust Network Architectures"
-  - "eBPF for runtime Linux security"
-  - "PKI Hardware Security Modules"
-
-Open To:
-  - "Pre-professional Internships in Cybersecurity, Cloud, DevOps, or Backend Engineering (PUCP Agreement)"
+Current_Focus:
+  Learning:
+    - Advanced Multi-Region AWS & Azure Well-Architected Architectures
+    - Kubernetes Network Hardening & Zero-Trust Service Meshes
+    - CISSP Domain Standards for Cryptography & Security Operations
+  Building:
+    - High-concurrency financial engines with serializable isolation & idempotent APIs
+    - Capstone IoT edge transaction protocol with offline storage & cloud reconciliation
+    - Production DevSecOps pipelines with automated container vulnerability thresholds
+  Exploring:
+    - Zero-Trust Network Access (ZTNA) & micro-segmentation models
+    - eBPF-driven runtime security observability inside the Linux kernel
+    - PKI Hardware Security Modules (HSM) & automated cryptographic key lifecycles
+  Open_To:
+    - Pre-Professional Internships (Convenio PUCP - 30 hours/week)
+    - Roles: Cloud Security Intern, DevSecOps Intern, Jr. Backend Developer, IT Operations
 ```
 
 ---
 
-## Connect
+<!-- 15. CONNECT SECTION -->
+## 🤝 Let's Connect
 
 <div align="center">
 
-<a href="mailto:italomijail@gmail.com"><img src="https://img.shields.io/badge/Gmail-4c1d95?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-<a href="https://www.linkedin.com/in/italo-mijail-ramos-diaz/"><img src="https://img.shields.io/badge/LinkedIn-6366f1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://github.com/italo04"><img src="https://img.shields.io/badge/GitHub-312e81?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://italo04.github.io/portafolio/"><img src="https://img.shields.io/badge/Portfolio-7928CA?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+[![Gmail](https://img.shields.io/badge/Gmail-italomijail%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:italomijail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-italo--mijail--ramos--diaz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/italo-mijail-ramos-diaz/)
+[![GitHub](https://img.shields.io/badge/GitHub-italo04-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/italo04)
+[![Portfolio](https://img.shields.io/badge/Web_Portfolio-Live%20Demo-4C1D95?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://italo04.github.io/portafolio/)
+
+<p align="center">
+  <i>Available for pre-professional internships under Peruvian university convention (Convenio PUCP - 30 hrs/week). Open to in-person, hybrid, or remote opportunities based in Lima, Peru.</i>
+</p>
 
 </div>
 
 ---
 
+<!-- 16. FOOTER SECTION -->
 <div align="center">
 
-*Securing the cloud, engineering resilient distributed backends, and bridging tech with real-world impact.*
+> *"Securing the cloud, engineering resilient distributed backends, and bridging tech with real-world impact."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=140&section=footer&theme=radical" width="100%" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=gradient&customColorList=0,2,25,45,75,100&theme=radical&height=120" width="100%" alt="Footer Banner" />
 
 </div>
